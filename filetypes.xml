@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="GenericDishes" type="CLASS" />
+      <mapping pattern="misa" type="CLASS" />
+      <mapping pattern="GenericDish" type="CLASS" />
+      <mapping pattern="java" type="Native" />
+      <mapping pattern="GenericDish.java" type="Native" />
+      <mapping pattern="UrgentReadMe" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
